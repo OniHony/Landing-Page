@@ -1,0 +1,21 @@
+* {
+    border: 2PX solid red;
+}
+.side {
+width: 400px;
+height: 300px;
+}
+.logo {
+     width: 100px;
+    height: auto;
+}
+.container {
+    display: flex;
+}
+.img {
+    width: 200px;
+    height: inherit;
+}
+.quote {
+    text-align: center;
+}
